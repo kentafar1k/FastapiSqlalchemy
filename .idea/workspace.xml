@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f321421b-0bb8-4d4f-85c8-d96bd226c2d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/FastapiSqlalchemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FastapiSqlalchemy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f321421b-0bb8-4d4f-85c8-d96bd226c2d5" name="Changes" comment="src start" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,11 +69,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748344761886</updated>
-      <workItem from="1748344763395" duration="2352000" />
+      <workItem from="1748344763395" duration="2707000" />
     </task>
+    <task id="LOCAL-00001" summary="добавил все зависимости в requirements">
+      <option name="closed" value="true" />
+      <created>1748347178660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748347178660</updated>
+    </task>
+    <task id="LOCAL-00002" summary="добавил все зависимости в requirements">
+      <option name="closed" value="true" />
+      <created>1748347214422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748347214422</updated>
+    </task>
+    <task id="LOCAL-00003" summary="src start">
+      <option name="closed" value="true" />
+      <created>1748347488782</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748347488782</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавил все зависимости в requirements" />
+    <MESSAGE value="src start" />
+    <option name="LAST_COMMIT_MESSAGE" value="src start" />
   </component>
 </project>
