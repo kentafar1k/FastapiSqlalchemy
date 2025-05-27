@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f321421b-0bb8-4d4f-85c8-d96bd226c2d5" name="Changes" comment="add bibls on databse.py">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+    <list default="true" id="f321421b-0bb8-4d4f-85c8-d96bd226c2d5" name="Changes" comment="сырые запросы в бд">
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queries/core.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/database.py" afterDir="false" />
     </list>
@@ -40,7 +42,9 @@
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2xg1Amn0CBfWleJo1DUGmL1uGcb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,6 +53,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/site/okna_site",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748344761886</updated>
-      <workItem from="1748344763395" duration="4445000" />
+      <workItem from="1748344763395" duration="8060000" />
     </task>
     <task id="LOCAL-00001" summary="добавил все зависимости в requirements">
       <option name="closed" value="true" />
@@ -107,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748347636453</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="сырые запросы в бд">
+      <option name="closed" value="true" />
+      <created>1748350497324</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748350497324</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +130,7 @@
     <MESSAGE value="добавил все зависимости в requirements" />
     <MESSAGE value="src start" />
     <MESSAGE value="add bibls on databse.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add bibls on databse.py" />
+    <MESSAGE value="сырые запросы в бд" />
+    <option name="LAST_COMMIT_MESSAGE" value="сырые запросы в бд" />
   </component>
 </project>
