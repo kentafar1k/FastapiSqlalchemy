@@ -22,15 +22,9 @@ async_engine = create_async_engine(
     max_overflow=10,
 )
 
-# with sync_engine.connect() as conn:
-#     res = conn.execute(text("SELECT VERSION()"))
-#     print(f"{res.first()=}")
+session_factory = sessionmaker(sync_engine)
+async_session_factory = sessionmaker(async_engine)
 
 
-async def get_123():
-
-    async with async_engine.connect() as conn:
-        res = await conn.execute(text("SELECT 1,2,3 union select 4,5,6"))
-        print(f"{res.first()=}")
-
-asyncio.run(get_123())
+class Base(DeclarativeBase):
+    pass
