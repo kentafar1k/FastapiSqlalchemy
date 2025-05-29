@@ -18,7 +18,7 @@ sync_engine = create_engine(
 async_engine = create_async_engine(
     url=settings.DATABASE_URL_asyncpg,
     echo=True,
-    pool_size=5,
+    pool_size=6,
     max_overflow=10,
 )
 
