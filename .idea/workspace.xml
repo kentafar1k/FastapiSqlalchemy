@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f321421b-0bb8-4d4f-85c8-d96bd226c2d5" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +79,8 @@
       <workItem from="1748344763395" duration="8107000" />
       <workItem from="1748432687597" duration="2095000" />
       <workItem from="1748440824936" duration="2225000" />
+      <workItem from="1748518491895" duration="2577000" />
+      <workItem from="1748528125264" duration="1950000" />
     </task>
     <task id="LOCAL-00001" summary="добавил все зависимости в requirements">
       <option name="closed" value="true" />
